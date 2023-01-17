@@ -1,0 +1,17 @@
+{
+    "name": "com.duccsoft.collections",
+    "version": "1.0.0",
+    "displayName": "Collections",
+    "description": "Provides a .NET implementation of various useful collections ",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+   "keywords": [
+      "collections",
+      "minheap",
+      "code"
+    ],
+    "author": {
+      "name": "ducc"
+    }
+  }
+  
